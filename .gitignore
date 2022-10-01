@@ -132,10 +132,13 @@ dmypy.json
 .pyre/
 
 # IDE
-.vscode/
 .idea/
 
 # custom
 /app.py
 /test.py
 /scripts
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
