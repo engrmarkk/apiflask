@@ -138,5 +138,5 @@ dmypy.json
 /test.py
 /scripts
 .gitignore
-config.bat
 node_modules
+config.bat
